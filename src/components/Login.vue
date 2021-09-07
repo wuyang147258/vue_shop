@@ -56,6 +56,7 @@ export default {
       this.$refs.loginFormRef.resetFields()
     },
     login(){
+      console.log(1);
       //实现表单的预验证
       this.$refs.loginFormRef.validate( async valid=>{
         if(!valid)return;
