@@ -6,11 +6,12 @@ body,
     height: 100%;
     margin: 0;
     padding: 0;
+    min-width: 1366px;
 }
 
 .el-breadcrumb {
     margin-bottom: 15px;
-    font-size: 12px;
+    font-size: 14px;
 }
 
 .el-card {
