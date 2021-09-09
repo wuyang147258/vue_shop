@@ -26,3 +26,11 @@ body,
 .el-pagination {
     margin-top: 15px;
 }
+
+.tree-table {
+    margin-top: 15px;
+}
+
+.el-cascader {
+    width: 100%;
+}
