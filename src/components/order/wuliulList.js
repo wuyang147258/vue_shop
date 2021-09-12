@@ -1,4 +1,4 @@
-const cateList = {
+const wuliuList = {
     "data": [{
             "time": "2018-05-10 09:39:00",
             "ftime": "2018-05-10 09:39:00",
@@ -63,4 +63,4 @@ const cateList = {
     ]
 }
 
-export default cateList
+export default wuliuList
